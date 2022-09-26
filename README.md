@@ -4,7 +4,7 @@ with suggestions to slow down its emergence.
 
 ![Screenshot](https://frailsafe-project.eu/images/frailsafe/news/frailsafe-logo-article.jpg)
 
-Information about the Frail project can be found in the link below:
+Information about the Frail Safe Project can be found in the link below:
 https://frailsafe-project.eu
 
 ## Description of our Project:
